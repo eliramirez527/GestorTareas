@@ -64,5 +64,5 @@ while True:
     else:
         print("Opción no válida.")
 
-print("¡Hasta luego!")
+print("¡Hasta luego!.")
 ```
